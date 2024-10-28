@@ -1,0 +1,89 @@
+#jasmpic{
+    width:400px;
+}
+
+#tulpic{
+    width:400px;
+}
+
+#rospic{
+    width:400px;
+}
+
+#sunflowerpic{
+    width:400px;
+}
+
+#body{
+    background-color:lawngreen;
+}
+#mainHeading{
+    background-color:deeppink;
+    text-align:center;
+    color:white;
+    font-size:3.5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:10px solid white;
+    border-radius:25px;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+}
+
+#JasmineDesc{
+    font-size:1.5rem;
+    background-color:blue;
+    color:black;
+}
+
+#JasmineHeading{
+    background-color:blue;
+    text-align:center;
+    width:200px;
+    color:lightblue;
+    font-size:2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:10px solid white;
+    border-radius:25px;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+}
+
+#TulipDesc{
+    font-size:1.5rem;
+    background-color:red;
+    color:black;
+}
+
+#TulipHeading{
+    background-color:red;
+    text-align:center;
+    width:200px;
+    color:blueviolet;
+    font-size:2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:10px solid white;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+}
+
+#RoseDesc{
+    font-size:1.5rem;
+    background-color:orchid;
+    color:black;
+}
+
+#RoseHeading{
+    background-color:orchid;
+    text-align:center;
+    width:200px;
+    color:black;
+    font-size:2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:10px solid white;
+    box-shadow:10px 10px 10px black;
+    text-shadow: 10px 10px 10px black;
+}  
+
+
+
+
